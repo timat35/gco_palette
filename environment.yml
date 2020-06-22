@@ -1,9 +1,0 @@
-name: gco_palette
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - webcolors
-  - colorsys
-  - matplotlib
-  - pandas
